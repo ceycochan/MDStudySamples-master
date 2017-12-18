@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "G:\\GitHub\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_explore.png",
+        "source": "G:\\GitHub\\MDStudySamples-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_explore.png"
+    },
+    {
+        "merged": "G:\\GitHub\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_settings.png",
+        "source": "G:\\GitHub\\MDStudySamples-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "G:\\GitHub\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_cloud.png",
+        "source": "G:\\GitHub\\MDStudySamples-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_cloud.png"
+    },
+    {
+        "merged": "G:\\GitHub\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_home.png",
+        "source": "G:\\GitHub\\MDStudySamples-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_home.png"
+    },
+    {
+        "merged": "G:\\GitHub\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_me.png",
+        "source": "G:\\GitHub\\MDStudySamples-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_me.png"
+    }
+]
